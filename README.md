@@ -1,2 +1,2 @@
 # alex
-A reusable lever library in C.
+A reusable lexer library in C.
